@@ -8,3 +8,19 @@ git init
 ````
 git remote add origin https://github.com/Themesenjer/Backend_3b_PabloReyes.git
 ````
+
+# Validar referencia
+````
+git remote -v
+````
+--------------------
+```
+git add .
+git commit -m "proyecto base"
+git put origin main
+```
+```
+- Para forzar
+
+git push origin master
+```
